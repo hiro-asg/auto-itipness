@@ -1,0 +1,6 @@
+app.yml
+chromedriver
+.*
+/screenshots/*
+!.gitkeep
+!.gitignore
